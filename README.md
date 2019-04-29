@@ -7,6 +7,8 @@
 
 Alfred workflow for ejecting mounted drives.
 
+- ℹ️ You'd need [Node.js](https://nodejs.org) installed on your system.
+
 ## License
 
 MIT © Fabio Spampinato
